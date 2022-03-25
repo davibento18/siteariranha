@@ -22,5 +22,8 @@ h1{
 }
 
 p{
-    font: size 2em; 
+    font: size 2em;
+    color:#20B2AA;
+    text-align: justify;
+    text-indent: 40px; 
 }
