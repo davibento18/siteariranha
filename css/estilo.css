@@ -2,10 +2,25 @@ body{
     background-color: #7FFFD4;
 }
 
-img{
-    width: 50%;
+.img_topo{
+    width: 100%;
+
 }
 
 figure{
     text-align:center;
+}
+
+.container{
+    width: 80%;
+    margin:auto;
+}
+
+h1{
+    text-align: center;
+    color:#20B2AA;
+}
+
+p{
+    font: size 2em; 
 }
